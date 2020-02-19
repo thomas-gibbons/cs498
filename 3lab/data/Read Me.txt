@@ -1,0 +1,42 @@
+
+Format(s): 
+Stereo (Stereo Files)
+B-Format (4 Channel Files)
+
+Stereo: 
+
+    lyd3_000_ortf_48k.wav
+
+Sample Rate: 48 kHz
+Number of Channels: 2
+Bits per Sample: 32
+Duration: 2 s
+File Size: 750.04 KB
+File Format: wav
+Source Sound: Genelec S30D, 15 second log. sine sweep
+Microphone: Neumann KM 140 Cardioid
+Source Location: Centre of altar steps, chancel
+Microphone Location: Centre of nave
+Source Receiver Distance (m): 11.5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 13 °C
+
+B-Format: Multichannel: 
+
+    lyd3_000_bformat_48k.wav
+
+Sample Rate: 48 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 2 s
+File Size: 1.1 MB
+File Format: wav
+Source Sound: Genelec S30D, 15 second log. sine sweep
+Microphone: Soundfield SPS422B Microphone
+Source Location: Centre of altar steps, chancel
+Microphone Location: Centre of nave
+Source Receiver Distance (m): 11.5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 13 °C
