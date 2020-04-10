@@ -12,6 +12,7 @@ scipy = "*"
 matplotlib = "*"
 pysoundcard = "*"
 sounddevice = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.7"
