@@ -13,6 +13,7 @@ matplotlib = "*"
 pysoundcard = "*"
 sounddevice = "*"
 scikit-learn = "*"
+librosa = "*"
 
 [requires]
 python_version = "3.7"
